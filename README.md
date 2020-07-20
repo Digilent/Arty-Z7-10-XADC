@@ -10,14 +10,14 @@ This project is a Vivado demo using the Arty Z7-10's analog-to-digital converter
 Requirements
 --------------
 * **Arty Z7-10**: To purchase a Arty Z7-10, see the [Digilent Store](https://store.digilentinc.com/arty-z7-apsoc-zynq-7000-development-board-for-makers-and-hobbyists/)
-* **Vivado 2018.2 Installation**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
+* **Vivado 2020.1 Installation**: To set up Vivado, see the [Installing Vivado and Digilent Board Files Tutorial](https://reference.digilentinc.com/vivado/installing-vivado/start).
 * **MicroUSB Cable**
 * **Wires and a Circuit to Measure**
 
 Demo Setup
 --------------
 1. Download and extract the most recent release ZIP archive from this repository's [Releases Page](https://github.com/Digilent/Arty-Z7-10-xadc/releases).
-2. Open the project in Vivado 2018.2 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Arty-Z7-10-xadc.xpr".
+2. Open the project in Vivado 2020.1 by double clicking on the included XPR file found at "\<archive extracted location\>/vivado_proj/Arty-Z7-10-xadc.xpr".
 3. In the Flow Navigator panel on the left side of the Vivado window, click **Open Hardware Manager**.
 4. Plug the Arty Z7-10 into the computer using a MicroUSB cable.
 5. In the green bar at the top of the window, click **Open target**. Select "Auto connect" from the drop down menu.
